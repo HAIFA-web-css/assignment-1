@@ -1,0 +1,138 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1655px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 55px 99px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 41px 0 0 474px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 358px;
+  height: 438px;
+  margin: -1354px auto 0 54px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 358px;
+  height: 411px;
+  margin: 30px auto 0 54px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 358px;
+  height: 444px;
+  margin: 30px auto 0 54px;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 2px;
+  background-image: none;
+  margin: 55px 0 0 auto;
+  padding: 8px 28px 8px 27px;
+}
+
+.u-section-1 .u-btn-2 {
+  --radius: 2px;
+  background-image: none;
+  margin: -38px 143px 36px auto;
+  padding: 8px 28px 8px 27px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1741px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 54px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 399px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -1427px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 64px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 64px;
+    margin-bottom: 60px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 132px;
+    margin-bottom: 37px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 179px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.6666666666666665rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 60px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -1354px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -38px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1676px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 416px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 390px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 340px;
+    height: 421px;
+  }
+}
